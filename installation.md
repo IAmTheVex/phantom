@@ -28,6 +28,32 @@ Now wait for the clone procedure to finish.
 
 After the clone procedure is finished you will be surprised with a nice dialog that asks you if you would like to import the cloned project. Click yes.
 
-![Git VCS](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/import1.png?raw=true)
+![Import](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/import1.png?raw=true)
 
 Now you can follow the import procedure described [here](https://iamthevex.github.io/phantom/import) or just follow your intuition and click on next until you can click on finish 😄
+
+After the import is done you are basically ready to go! The first thing you need to do is to rename your package to match your team name (not mandatory but pretty important). You can find it in the Android view on the left.
+
+![Android](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/android.png?raw=true)
+
+If you don't see the view, just double tap on the module name, in this case `main`.
+
+![Show](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/show.png?raw=true)
+
+Navigate in the package tree until you see `com.yourteam`. Right click on that, then go to `Refactor > Rename` in the contextual menu.
+
+![Rename](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/rename1.png?raw=true)
+
+Choose a good name (you can change it later) and click on refactor.
+
+![Rename](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/rename2.png?raw=true)
+
+After the IDE finishes it's jobs, you are ready to Rock! Click on `SimpleGameUnit` to get a taste of how your code will look like.
+
+![Code](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/code.png?raw=true)
+
+Now you're ready to run your Phantom SDK based app on your phone! Give it a spin! (You may also want to follow FIRST's instructions on this)
+
+![Run](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/run.png?raw=true)
+
+Good work, champ! You installed the Phantom SDK! Now you are ready to develop modular apps! You might want to install the plugin, for easyer and faster development. You can learn how to do that [here](https://iamthevex.github.io/phantom/plugin).
