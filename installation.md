@@ -8,7 +8,7 @@ Before you install the SDK make sure your Android Studio version supports Kotlin
 
 ## Check out project from Version Control
 
-Is a good practice to use the version from VCS because you can easyly upgrade your local SDK if a new version is published. The new versions will NOT bring breaking changes. You may also use all the VCS pros like branching and easy to manage collaborative coding.
+Is a good practice to use VCS because you can easily upgrade your local SDK if a new version is published. The new versions will NOT bring breaking changes. The VCS is also a nice tool for collaborative coding (features like branching).
 
 When you open up Android Studio, one of the options is to check out a project from Version Control. Click on that.
 
@@ -26,5 +26,8 @@ Now wait for the clone procedure to finish.
 
 ![Git VCS](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/clone4.png?raw=true)
 
+After the clone procedure is finished you will be surprised with a nice dialog that asks you if you would like to import the cloned project. Click yes.
 
-![Image of Android step](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/android.png?raw=true)
+![Git VCS](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/import1.png?raw=true)
+
+Now you can follow the import procedure described [here](https://iamthevex.github.io/phantom/import) or just follow your intuition and click on next until you can click on finish 😄
