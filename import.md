@@ -1,6 +1,6 @@
 # Import steps
 
-Follow your intuition, click next until you can click finish and make modification to text inputs along the way 😄  It will work!
+Follow your intuition, click next until you can click finish and make modifications to text inputs along the way 😄  It will work!
 
 ![Import](https://www.github.com/IAmTheVex/phantom/blob/master/resources/images/installation/import1.png?raw=true)
 
